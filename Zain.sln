@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zain", "Zain\Zain.csproj", "{799CE9FD-72CE-4EDF-AC4E-EAEB3DAD09D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FUNCTION", "FUNCTION\FUNCTION.csproj", "{7836634B-F413-45ED-977A-3F34ECD2C14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799CE9FD-72CE-4EDF-AC4E-EAEB3DAD09D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799CE9FD-72CE-4EDF-AC4E-EAEB3DAD09D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799CE9FD-72CE-4EDF-AC4E-EAEB3DAD09D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799CE9FD-72CE-4EDF-AC4E-EAEB3DAD09D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7836634B-F413-45ED-977A-3F34ECD2C14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7836634B-F413-45ED-977A-3F34ECD2C14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7836634B-F413-45ED-977A-3F34ECD2C14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7836634B-F413-45ED-977A-3F34ECD2C14D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B6B0AC-C895-4F09-9241-1FC6911B878B}
+	EndGlobalSection
+EndGlobal

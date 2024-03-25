@@ -1,0 +1,14 @@
+C:\Users\asp\source\repos\Zain\FUNCTION\bin\Debug\net7.0\FUNCTION.exe
+C:\Users\asp\source\repos\Zain\FUNCTION\bin\Debug\net7.0\FUNCTION.deps.json
+C:\Users\asp\source\repos\Zain\FUNCTION\bin\Debug\net7.0\FUNCTION.runtimeconfig.json
+C:\Users\asp\source\repos\Zain\FUNCTION\bin\Debug\net7.0\FUNCTION.dll
+C:\Users\asp\source\repos\Zain\FUNCTION\bin\Debug\net7.0\FUNCTION.pdb
+C:\Users\asp\source\repos\Zain\FUNCTION\obj\Debug\net7.0\FUNCTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\Zain\FUNCTION\obj\Debug\net7.0\FUNCTION.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\Zain\FUNCTION\obj\Debug\net7.0\FUNCTION.AssemblyInfo.cs
+C:\Users\asp\source\repos\Zain\FUNCTION\obj\Debug\net7.0\FUNCTION.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\Zain\FUNCTION\obj\Debug\net7.0\FUNCTION.dll
+C:\Users\asp\source\repos\Zain\FUNCTION\obj\Debug\net7.0\refint\FUNCTION.dll
+C:\Users\asp\source\repos\Zain\FUNCTION\obj\Debug\net7.0\FUNCTION.pdb
+C:\Users\asp\source\repos\Zain\FUNCTION\obj\Debug\net7.0\FUNCTION.genruntimeconfig.cache
+C:\Users\asp\source\repos\Zain\FUNCTION\obj\Debug\net7.0\ref\FUNCTION.dll

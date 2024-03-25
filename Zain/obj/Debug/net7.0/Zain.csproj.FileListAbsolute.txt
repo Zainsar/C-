@@ -1,0 +1,14 @@
+C:\Users\asp\source\repos\Zain\Zain\bin\Debug\net7.0\Zain.exe
+C:\Users\asp\source\repos\Zain\Zain\bin\Debug\net7.0\Zain.deps.json
+C:\Users\asp\source\repos\Zain\Zain\bin\Debug\net7.0\Zain.runtimeconfig.json
+C:\Users\asp\source\repos\Zain\Zain\bin\Debug\net7.0\Zain.dll
+C:\Users\asp\source\repos\Zain\Zain\bin\Debug\net7.0\Zain.pdb
+C:\Users\asp\source\repos\Zain\Zain\obj\Debug\net7.0\Zain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\Zain\Zain\obj\Debug\net7.0\Zain.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\Zain\Zain\obj\Debug\net7.0\Zain.AssemblyInfo.cs
+C:\Users\asp\source\repos\Zain\Zain\obj\Debug\net7.0\Zain.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\Zain\Zain\obj\Debug\net7.0\Zain.dll
+C:\Users\asp\source\repos\Zain\Zain\obj\Debug\net7.0\refint\Zain.dll
+C:\Users\asp\source\repos\Zain\Zain\obj\Debug\net7.0\Zain.pdb
+C:\Users\asp\source\repos\Zain\Zain\obj\Debug\net7.0\Zain.genruntimeconfig.cache
+C:\Users\asp\source\repos\Zain\Zain\obj\Debug\net7.0\ref\Zain.dll
